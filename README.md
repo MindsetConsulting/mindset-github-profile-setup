@@ -1,6 +1,10 @@
-# Setting Up Your GitHub Account
+<h1 align="center">
+  Setting Up Your GitHub Account
+</h1>
 
-This guide will walk you through the essential steps to set up your GitHub account for a smooth and secure experience.
+<p align="center">
+  <strong>This guide will walk you through the essential steps to set up your GitHub account for a smooth and secure experience.</strong><br>
+</p>
 
 ## 1. Profile Setup
 
