@@ -4,7 +4,7 @@
 
 This guide will walk you through the essential steps to set up your GitHub account for a smooth and secure experience.
 
-## 1. Profile Setup
+<h2 align="center">1. Profile Setup</h2>
 
 ### a. Profile Picture
 
@@ -20,7 +20,8 @@ _`Note: Your Profile Picture size must be under 1MB in order to upload the pictu
 
 1. In the "Profile" section (as mentioned above), you can also set your real name. This helps other users recognize you more easily.
 
-## 3. Two-Factor Authentication (2FA)
+
+<h2 align="center">2. Two-Factor Authentication (2FA)</h2>
 
 Setting up Two-Factor Authentication adds an extra layer of security to your GitHub account.
 
@@ -35,16 +36,15 @@ Setting up Two-Factor Authentication adds an extra layer of security to your Git
 3. Follow the prompts to complete the setup. You can choose between using an authentication app or SMS & other methods based on your convenience.
 
 ![2FA Methods](https://github.com/MindsetConsulting/mindset-github-profile-setup/blob/main/images/twofactormethods.png "2FA Enable")   
-
-## 4. Customize Your Profile
+<h2 align="center">3. Customize Your Profile</h2>
 
 You can further customize your profile by adding a bio, location, and other details. This helps others learn more about you and your interests.
 
-## 5. Explore GitHub
+<h2 align="center">4. Explore GitHub</h2>
 
 Now that your account is set up, you can start exploring GitHub, discovering repositories, contributing to projects, and collaborating with other developers.
 
 Remember to review GitHub's [Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service) and [Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines) to ensure you're using the platform appropriately.
 
-## 6. Contact
+<h2 align="center">5. Contact</h2>
 [@slack\sandeshkj](https://mindsetconsulting.slack.com/archives/D0354R1APGQ)
