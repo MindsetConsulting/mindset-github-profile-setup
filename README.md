@@ -10,7 +10,7 @@ This guide will walk you through the essential steps to set up your GitHub accou
 <br />
 <div align="left">
   <a href="https://github.com/MindsetConsulting/mindset-github-profile-setup">
-    <img src="images/click%20on%20profile.png" alt="Logo" width="600" height="620">
+    <img src="images/clickonprofile.png" alt="Logo" width="600" height="620">
   </a>
 
 2. Select "Settings."
