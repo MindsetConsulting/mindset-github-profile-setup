@@ -24,7 +24,7 @@ Setting up Two-Factor Authentication adds an extra layer of security to your Git
 
 1. In the "Settings" page, click on "Password & Authentication" in the left sidebar.
 
-![2FA Enabled](https://github.com/MindsetConsulting/mindset-github-profile-setup/blob/main/images/passwordauthentication.png "passauth")
+![2FA Enabled](https://github.com/MindsetConsulting/mindset-github-profile-setup/blob/main/images/passwordandauthentication.png "passauth")
 
 2. Under the "Two-factor authentication" section, click "Set up two-factor authentication." in the below image you can see the 2FA is already Enabled.
 
