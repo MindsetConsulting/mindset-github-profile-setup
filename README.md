@@ -45,4 +45,4 @@ Now that your account is set up, you can start exploring GitHub, discovering rep
 Remember to review GitHub's [Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service) and [Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines) to ensure you're using the platform appropriately.
 
 ## 6. Contact
-[Sandesh KJ @Slack](https://mindsetconsulting.slack.com/archives/D0354R1APGQ)
+[@slack\sandeshkj](https://mindsetconsulting.slack.com/archives/D0354R1APGQ)
