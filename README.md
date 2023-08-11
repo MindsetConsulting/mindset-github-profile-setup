@@ -7,23 +7,13 @@ This guide will walk you through the essential steps to set up your GitHub accou
 ### a. Profile Picture
 
 1. Click on your profile icon in the top-right corner.
-<br />
-<div align="left">
-  <a href="https://github.com/MindsetConsulting/mindset-github-profile-setup">
-    <img src="images/clickonprofile.png" alt="Logo" width="600" height="620">
-  </a>
-
 2. Select "Settings."
 3. In the left sidebar, click on "Profile."
 4. Under the "Profile picture" section, click "Upload a picture" and follow the prompts to set your profile picture. Choose a clear and professional image.
 
-  ![Profile Picture](images/click on profile.png "Profile Picture Setup")
-
 ### b. Real Name
 
 1. In the "Profile" section (as mentioned above), you can also set your real name. This helps other users recognize you more easily.
-
-   ![Real Name](https://github.com/MindsetConsulting/mindset-github-profile-setup/blob/main/images/click%20on%20profile.png "Real Name Setup")
 
 ## 3. Two-Factor Authentication (2FA)
 
