@@ -2,27 +2,22 @@
 
 This guide will walk you through the essential steps to set up your GitHub account for a smooth and secure experience.
 
-## 1. Sign Up for GitHub
-
-If you don't have a GitHub account yet, go to [GitHub's sign-up page](https://github.com/join) and follow the instructions to create an account.
-
-## 2. Profile Setup
+## 1. Profile Setup
 
 ### a. Profile Picture
 
 1. Click on your profile icon in the top-right corner.
+<br />
+<div align="left">
+  <a href="https://github.com/MindsetConsulting/mindset-github-profile-setup">
+    <img src="images/click%20on%20profile.png" alt="Logo" width="600" height="620">
+  </a>
+
 2. Select "Settings."
 3. In the left sidebar, click on "Profile."
 4. Under the "Profile picture" section, click "Upload a picture" and follow the prompts to set your profile picture. Choose a clear and professional image.
 
- <!--  ![Profile Picture](images/click on profile.png "Profile Picture Setup")
--->
-<br />
-<div align="center">
-  <a href="https://github.com/MindsetConsulting/mindset-github-profile-setup">
-    <img src="images/click on profile.png" alt="Logo" width="80" height="80">
-  </a>
-
+  ![Profile Picture](images/click on profile.png "Profile Picture Setup")
 
 ### b. Real Name
 
