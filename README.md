@@ -21,7 +21,7 @@ If you don't have a GitHub account yet, go to [GitHub's sign-up page](https://gi
 
 1. In the "Profile" section (as mentioned above), you can also set your real name. This helps other users recognize you more easily.
 
-   ![Real Name](link-to-your-screenshot-2.png "Real Name Setup")
+   ![Real Name](https://github.com/MindsetConsulting/mindset-github-profile-setup/blob/main/images/click%20on%20profile.png "Real Name Setup")
 
 ## 3. Two-Factor Authentication (2FA)
 
