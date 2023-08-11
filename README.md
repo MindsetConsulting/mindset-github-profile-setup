@@ -15,7 +15,14 @@ If you don't have a GitHub account yet, go to [GitHub's sign-up page](https://gi
 3. In the left sidebar, click on "Profile."
 4. Under the "Profile picture" section, click "Upload a picture" and follow the prompts to set your profile picture. Choose a clear and professional image.
 
-   ![Profile Picture](images/click on profile.png "Profile Picture Setup")
+ <!--  ![Profile Picture](images/click on profile.png "Profile Picture Setup")
+-->
+<br />
+<div align="center">
+  <a href="https://github.com/MindsetConsulting/mindset-github-profile-setup">
+    <img src="images/click on profile.png" alt="Logo" width="80" height="80">
+  </a>
+
 
 ### b. Real Name
 
