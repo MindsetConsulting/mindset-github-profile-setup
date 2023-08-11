@@ -23,10 +23,11 @@ _`Note: Your Profile Picture size must be under 1MB in order to upload the pictu
 Setting up Two-Factor Authentication adds an extra layer of security to your GitHub account.
 
 1. In the "Settings" page, click on "Password & Authentication" in the left sidebar.
-![Profile Picture](link-to-your-screenshot-1.png "Profile Picture Setup")
-3. Under the "Two-factor authentication" section, click "Set up two-factor authentication." in the below image you can see the 2FA is already Enabled.
-![Profile Picture](link-to-your-screenshot-1.png "Profile Picture Setup")
-5. Follow the prompts to complete the setup. You can choose between using an authentication app or SMS & other methods based on your convenience.
+![2FA Enabled](https://github.com/MindsetConsulting/mindset-github-profile-setup/blob/main/images/twofactorenable.png "2FA Enable")
+2. Under the "Two-factor authentication" section, click "Set up two-factor authentication." in the below image you can see the 2FA is already Enabled.
+![2FA Methods](![2FA Enabled](https://github.com/MindsetConsulting/mindset-github-profile-setup/blob/main/images/twofactormethods.png "2FA Enable")
+ "2FA Methods")
+3. Follow the prompts to complete the setup. You can choose between using an authentication app or SMS & other methods based on your convenience.
 
 ## 4. Customize Your Profile
 
